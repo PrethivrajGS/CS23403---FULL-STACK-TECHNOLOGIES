@@ -1,0 +1,2 @@
+console.log("WELCOME TO FULL STOCK TECHNOLOGIES");
+window.alert("WELCOME TO FST");
