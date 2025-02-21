@@ -1,0 +1,33 @@
+#inputcss
+{
+    text-align: center;
+    background-color: lightseagreen;
+    font-size: 32px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#title
+{
+    text-align: center;
+}
+#analyse
+{
+    font-size: 32px;
+    background-color: green;
+    color: white;
+}
+#clear
+{
+    font-size: 32px;
+    background-color: green;
+    color: white;
+}
+#outputs
+{
+    font-size: 32px;
+   
+    color: black;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
