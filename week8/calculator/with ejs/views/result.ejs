@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Result</title>
+    <style>
+        #head
+        {
+            text-align: center;
+        }
+        #body
+        {
+            background-color: black;
+        }
+        #actions
+        {
+            text-align: center;
+            background-color: white;
+            align-items: center;
+            font-size: 36px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+        #button
+        {
+            font-size: 36px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="/">
+    <div id="actions">
+    <h2>Calculation Result</h2>
+    <p><strong><%= a %></strong> <%= op %> <strong><%= b %></strong> = <strong><%= c %></strong></p>
+    <button>Calculate more</button>
+    </div>
+    </form>
+</body>
+</html>
